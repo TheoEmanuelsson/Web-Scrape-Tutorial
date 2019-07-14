@@ -1,6 +1,6 @@
 # Webscrape tutorial
 
-A short tutorial on how to scrape multiple webpages using Python 3 and BeautifulSoup in order to collect data for projects. In this example I save the 2nd and 3rd instances of text data on every webpage.
+A short tutorial on how to scrape multiple webpages on the same URL using Python 3 and BeautifulSoup in order to collect data for projects. In this example I save the 2nd and 3rd instances of text data on every webpage.
 
 NOTICE: Check the webpages robot.txt file and their ToS or Licenses before use.
 
