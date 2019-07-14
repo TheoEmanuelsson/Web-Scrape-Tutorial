@@ -10,7 +10,7 @@ In this tutorial I use Jupyter notebooks. The scraper will be uploaded as a .ipy
 
 2) Set ut the columns we want to save the data to.
 
-3) Set up a for loop for out requests.
+3) Set up a for loop for our requests.
 
 4) We use a sleep and random integer function to not overload the server.
 
