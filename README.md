@@ -2,6 +2,8 @@
 
 A short tutorial on how to scrape multiple webpages using Python 3 and BeautifulSoup
 
+In this tutorial I use Jupyter notebooks. The scraper will be uploaded as a .ipynb
+
 1) Start by importing the needed libraries. 
 
 2) Set ut the columns we want to save the data to.
